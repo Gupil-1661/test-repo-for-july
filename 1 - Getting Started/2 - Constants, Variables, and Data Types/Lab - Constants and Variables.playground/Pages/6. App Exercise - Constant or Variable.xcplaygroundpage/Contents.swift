@@ -11,6 +11,16 @@
 - Goal number of steps: The user's goal for number of steps to take each day
 - Average heart rate: The user's average heart rate over the last 24 hours
  */
+let name: String = "John"
+//fixed variable (constant)
+
+var age: Int = 30
+var stepsTakenToday: Int = 10000
+
+let goalNumberOfSteps: Int = 10000
+//fixed variable (constant)
+
+var averageHeartRate: Double = 70.0
 
 
 /*:

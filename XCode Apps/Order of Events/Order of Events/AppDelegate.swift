@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Temp-App
+//  06 - Order of Events
 //
-//  Created by Gupil  on 16/07/25.
+//  Created by Arpit Garg on 22/07/25.
 //
 
 import UIKit

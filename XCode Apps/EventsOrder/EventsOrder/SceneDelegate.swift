@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  Order of Events
+//  EventsOrder
 //
-//  Created by Gupil on 22/07/25.
+//  Created by Gupil  on 30/07/25.
 //
 
 import UIKit

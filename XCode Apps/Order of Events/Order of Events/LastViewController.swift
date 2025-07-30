@@ -1,8 +1,8 @@
 //
 //  ThirdViewController.swift
-//  06 - Order of Events
+//  Order of Events
 //
-//  Created by Arpit Garg on 22/07/25.
+//  Created by Gupil on 22/07/25.
 //
 
 import UIKit
